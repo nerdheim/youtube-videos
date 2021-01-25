@@ -38,7 +38,7 @@ Run
 
 `apt dist-upgrade`
 
-# Add tools
+## Add tools
 
 `apt install bwm-ng htop vim nano iperf iperf3 nmap traceroute wget mtr itop vnstat ncdu`
 
